@@ -11,26 +11,22 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [:card_index: Entity Relationship Diagram](#er-diagram)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Hello React\_Front-end ](#-hello-react_front-end-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Install](#install)
+    - [Usage](#usage)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [❓ FAQ ](#-faq-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -117,11 +113,11 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Habib Payenda**
+👤 **Okolike Assumpta**
 
-- GitHub: [Habib Payenda](https://github.com/HabibPayenda)
-- Twitter: [Habib Payenda](https://twitter.com/payendaHabib)
-- LinkedIn: [Habib Payenda](https://www.linkedin.com/in/habibpayenda/)
+- GitHub: [Okolike Assumpta](https://github.com/summyalena)
+- Twitter: [Okolike Assumpta](https://twitter.com/aokolike)
+- LinkedIn: [Okolike Assumpta](https://www.linkedin.com/in/assumptaokolike/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
