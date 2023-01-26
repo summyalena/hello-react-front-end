@@ -72,6 +72,9 @@
 
 <!-- LIVE DEMO -->
 
+- Link to backend project 
+  https://github.com/summyalena/hello_rails_backend/pull/1
+  
 - in progress :smile: [Not Available]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
