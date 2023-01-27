@@ -10,10 +10,11 @@ function Greeting() {
   useEffect(() => {
     dispatch(fetchData);
     console.log('hello');
-  }, []);
+  }, [dispatch]);
 
   return (
     <div>
+      <h3>Hello everyone</h3>
       {greetings.message}
     </div>
   );
