@@ -1,21 +1,24 @@
-import React, { useEffect } from 'react';
-import { useSelector, useDispatch } from 'react-redux';
+import { useEffect } from 'react';
+import { useDispatch } from 'react-redux';
 
-import { fetchData } from '../redux/greetings/greeting';
+import { fetchGreetings } from '../../redux/store/configStore';
 
 function Greeting() {
   const dispatch = useDispatch();
-  const greetings = useSelector((state) => state.greetings.greeting);
-
   useEffect(() => {
-    dispatch(fetchData);
-    console.log('hello');
+    dispatch(fetchGreetings());
   }, [dispatch]);
+
+  // const greetings = useSelector((state) => state.greetings);
 
   return (
     <div>
-      <h3>Hello everyone</h3>
-      {greetings.message}
+      {/* {greetings.map((greeting) => (
+        <div key={greeting.id}>
+          {greeting.message}
+        </div>
+      ))} */}
+      <h1>hello</h1>
     </div>
   );
 }
