@@ -7,7 +7,6 @@ import {
 export const fetchGreetings = createAsyncThunk('fetch/greetings', async () => {
   const response = await fetch('https://greeting-t0aj.onrender.com/greetings');
   const data = await response.json();
-  console.log(data);
   return data;
 });
 

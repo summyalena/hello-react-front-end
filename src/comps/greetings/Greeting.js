@@ -1,12 +1,10 @@
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-
 import { fetchGreetings } from '../../redux/store/configStore';
 
 function Greeting() {
   const dispatch = useDispatch();
   useEffect(() => {
-    console.log('hello');
     dispatch(fetchGreetings());
   }, [dispatch]);
 
